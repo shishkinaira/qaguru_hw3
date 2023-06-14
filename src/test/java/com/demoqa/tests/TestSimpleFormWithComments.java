@@ -54,7 +54,11 @@ public class TestSimpleFormWithComments {
                                             text("test@test.test"),
                                             text("1111111111"),
                                             text("Maths"),
-                                            text("TestCurrentAddress"));
+                                            text("TestCurrentAddress"),
+                                            text("30 July,2000"),
+                                            text("Sports"),
+                                            text("1.png"),
+                                            text("NCR Delhi"));
     }
 
 }
